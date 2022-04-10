@@ -1,0 +1,78 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "welcome to a new Blog about Life of an Oil Field",
+      "body": "The life of an oil field beigins with the petroleum exploration, which involve Regional evaluation in order just to evalute where were hydrocarbon generated",
+      "likes": 36
+    },
+    {
+      "id": 3,
+      "title": "welcome to a new Blog about Life of an Oil Field",
+      "body": "The life of an oil field beigins with the petroleum exploration, which involve Regional evaluation in order just to evalute where were hydrocarbon generated",
+      "likes": 40
+    },
+    {
+      "title": "Oil Production ",
+      "body": "Crude oil includes lease condensate. The sum of individual states may not equal total U.S. volumes due to independent rounding. Volumes are rounded to the nearest whole number; a zero may indicate volume of less than 0.5 thousand barrels per day. Previous months' production volumes may have been revised for all states/areas. Percent change is calculated using unrounded values.",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "title": "Reservoir Rock",
+      "body": "to study reservoir characterization , addiional test and wells are drilled",
+      "likes": 0,
+      "id": 7
+    },
+    {
+      "title": "petroleum system",
+      "body": "this tools allow us  to determine geolical components , to know where were hydrocarbon generated, in which formation was formated",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "title": "Drilling",
+      "body": "Drilling calculations are required to determined",
+      "author": "Written by Zolimar Carrasquero",
+      "id": 9
+    },
+    {
+      "title": "Reservoir Description",
+      "body": "for Reservoir description ,fluid characterization,rock characterization are determined, all the data from the previous studies are performed and evaluated in a specialized laboratory, to detemrine fluid composition, saturation, pressure, temparture, specific gravity, density",
+      "author": "Written by Zolimar Carrasquero",
+      "id": 10
+    },
+    {
+      "title": "fluid characterization",
+      "body": "determing the fluid composition, saturation, fluid flow behavitheor will determine the initial pressure and the saturation ",
+      "author": "Carrasquero",
+      "id": 12
+    },
+    {
+      "title": "Geological model",
+      "body": "determine the original volume of oil in place",
+      "author": "Carrasquero",
+      "id": 13
+    },
+    {
+      "title": "Production stage",
+      "body": "Maxime oil recovery in minimun amount of time",
+      "author": "Carrasquero",
+      "id": 14
+    },
+    {
+      "title": "Displacement of the Fluid",
+      "body": "The displacement of the fluid is possible due to forces(viscous force, gravity force, capillary force.\n\nthe forces occurs as a consenquence of the small dimension poros media, the smaller the poros ratios is , the stronger the capillary force is",
+      "author": "Written by Zolimar Carrasquero",
+      "id": 15
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "do you prefer Drilling or Reservoir?",
+      "answerA": "Drilling",
+      "answerB": "Reservoir"
+    }
+  ]
+}
